@@ -1,4 +1,4 @@
-# PteroThemes
+# PteroThemes (not mine i just forked it)
  Themes for Pterodactyl 1.x, NON-maintained atm
 
 ## Will this break my panel? (IMPORTANT)
